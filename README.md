@@ -1,2 +1,2 @@
 # <center>Patan Multiple Campus<center>
-## P atan Dokha 10, Lalitpur
+### Patan Dokha 10, Lalitpur
